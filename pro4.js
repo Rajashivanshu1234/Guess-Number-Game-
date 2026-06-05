@@ -69,7 +69,7 @@
   }
 
  function displaymessage(Message){
-    // low and hidh mai mess pass krege and print lre
+    // low and high mai message pass krege and print krega..
 
     lowerorHigh.innerHTML=`<h2>${Message}</h2>`
  }
